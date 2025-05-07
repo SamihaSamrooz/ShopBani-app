@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104145317117",
+    "project_id": "shop-bani",
+    "storage_bucket": "shop-bani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104145317117:android:63f34a50aa919f14dce294",
+        "android_client_info": {
+          "package_name": "com.example.shop_bani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0lqRFBGUtSh87E6G8Y670R-4dE0bMnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
